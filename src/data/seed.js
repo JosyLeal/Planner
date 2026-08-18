@@ -1,0 +1,15 @@
+export const SEED_ACTIVITIES = [
+  { id: 1,  mes: "mar", data: "01/mar", dia: "domingo",       inicio: "07:30", fim: "08:00", duracao: "00:30", concluido: false, atividade: "Café da Manhã",   detalhes: "" },
+  { id: 2,  mes: "mar", data: "02/mar", dia: "segunda-feira", inicio: "06:00", fim: "06:15", duracao: "00:15", concluido: false, atividade: "Atividade Física", detalhes: "" },
+  { id: 3,  mes: "mar", data: "02/mar", dia: "segunda-feira", inicio: "06:15", fim: "06:30", duracao: "00:15", concluido: false, atividade: "Café da Manhã",   detalhes: "" },
+  { id: 4,  mes: "mar", data: "03/mar", dia: "terça-feira",   inicio: "06:15", fim: "06:30", duracao: "00:15", concluido: false, atividade: "Café da Manhã",   detalhes: "" },
+  { id: 5,  mes: "mar", data: "03/mar", dia: "terça-feira",   inicio: "06:30", fim: "07:30", duracao: "01:00", concluido: false, atividade: "Atividade Física", detalhes: "" },
+  { id: 6,  mes: "mar", data: "04/mar", dia: "quarta-feira",  inicio: "06:00", fim: "06:15", duracao: "00:15", concluido: false, atividade: "Atividade Física", detalhes: "" },
+  { id: 7,  mes: "mar", data: "04/mar", dia: "quarta-feira",  inicio: "07:00", fim: "07:30", duracao: "00:30", concluido: false, atividade: "Café da Manhã",   detalhes: "" },
+  { id: 8,  mes: "mar", data: "05/mar", dia: "quinta-feira",  inicio: "06:30", fim: "07:30", duracao: "01:00", concluido: false, atividade: "Atividade Física", detalhes: "" },
+  { id: 9,  mes: "mar", data: "05/mar", dia: "quinta-feira",  inicio: "07:00", fim: "07:30", duracao: "00:30", concluido: false, atividade: "Café da Manhã",   detalhes: "" },
+  { id: 10, mes: "mar", data: "06/mar", dia: "sexta-feira",   inicio: "06:00", fim: "06:15", duracao: "00:15", concluido: false, atividade: "Atividade Física", detalhes: "" },
+  { id: 11, mes: "mar", data: "06/mar", dia: "sexta-feira",   inicio: "07:30", fim: "08:00", duracao: "00:30", concluido: false, atividade: "Café da Manhã",   detalhes: "" },
+  { id: 12, mes: "mar", data: "07/mar", dia: "sábado",        inicio: "07:00", fim: "07:30", duracao: "00:30", concluido: false, atividade: "Café da Manhã",   detalhes: "" },
+  { id: 13, mes: "mar", data: "07/mar", dia: "sábado",        inicio: "10:30", fim: "11:30", duracao: "01:00", concluido: false, atividade: "Atividade Física", detalhes: "" },
+];
